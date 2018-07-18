@@ -34,8 +34,20 @@
     </view>
 
   </view>
-  <view class='main'>
-
+  <view class='list_ge'></view>
+  <!--每日一句-->
+  <view class='list_main'>
+      <view class='list_head'>
+        <text>每日一句</text>
+      </view>
+      <view class='list_mor'>
+        <text>更多</text>
+      </view>
   </view>
+  <!--每日一句结束-->
 
+    <view class='list_content'>
+      <view class='list_content_text'>扎西在办公室吗？</view>
+      <view class='list_content_play_icon'></view>
+    </view>
 </view>
