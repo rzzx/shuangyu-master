@@ -1,0 +1,29 @@
+{
+  "pages": [
+
+    "pages/welcom/welcom",
+    "pages/index/index",
+    "pages/logs/logs"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#03c97c",
+    "navigationBarTitleText": "双语学院",
+    "navigationBarTextStyle": "wight"
+  },
+  "tabBar": {
+    "color":"#000000",
+
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "日志"
+      }
+    ]
+  }
+}

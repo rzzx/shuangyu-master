@@ -1,0 +1,43 @@
+/* pages/welcom/welcom.wxss */
+
+.rzzx_container{
+  
+}
+swiper{
+  width:750rpx;
+  height: 300rpx;
+}
+swiper image{
+  width:750rpx;
+  height: 300rpx;
+}
+.rzzx_nav{
+  display: flex;
+  flex-direction: row;
+  height: 150rpx;
+  padding: 20rpx 0;
+}
+.rzzx_nav_item{
+  width: 25%;
+  align-items: center;
+  text-align: center;
+}
+.rzzx_icon{
+  width: 100rpx;
+  height: 100rpx;
+  background-color: #03c97c;
+  align-items: center;
+  text-align: center;
+  line-height: 130rpx;
+  margin: auto;
+  border-radius: 50rpx;
+  }
+
+.rzzx_nav_item .rzzx_icon image{
+  width: 60rpx;
+  height: 60rpx;
+  
+}
+.rzzx_nav_item text{
+  font-size: 28rpx;
+}
